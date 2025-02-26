@@ -20,11 +20,9 @@
 ## 国内可用的 ChatGPT 镜像网站推荐
 
 以下是精选的国内优质 **ChatGPT 中文版镜像网站**，提供高效的中文访问体验：
+- [https://ai.bearvision.cn/](https://ai.bearvision.cn/) - **免费ChatGPT**，支持 GPT-4、4o、o1、o3、deepseek ，手机号邮箱登录，支持图片，文件分析。。
 - [https://chat.yixiaai.com/](https://chat.yixiaai.com/) - **ChatGPT中文版**，运营近2年，支持 GPT-4、4o 以及 o1，支持 AI 绘画，扫码即可使用。
 - [https://chat.lify.vip/](https://www.yixiaai.com/) - **ChatGPT镜像网站**，运营近2年，支持 GPT-4、4o 以及 o1，提供 AI 文件、AI PPT、AI 助手、AI 插件功能、思维导图。
-- [https://guide1.lanjing.ai/](https://guide1.lanjing.ai/) - **ChatGPT镜像网站**，运营1年多，支持 GPT-4、4o，支持 AI 绘画（Midjourney 和 Dall·E）。
-- [https://ai.lansejingyu.com/](https://ai.lansejingyu.com/) - ChatGPT-4 镜像，支持 GPT-4、4o，简单便捷。
-- [https://lanjing.ai/](https://lanjing.ai/) - **免费ChatGPT**，支持 GPT-4、4o 支持 MJ 绘画。
 
 ## ChatGPT 官网与中文版的区别
 | 对比项 | ChatGPT官网 | ChatGPT中文版（镜像网站）|
@@ -39,7 +37,7 @@
 总结：如果您在国内想使用ChatGPT，推荐使用上面的 **ChatGPT 中文版镜像网站**。
 
 ## 如何使用 ChatGPT 中文版？（详细教程）
-1. 选择上方的网址，如：[https://chat.yixiaai.com/](https://chat.yixiaai.com/)。
+1. 选择上方的网址，如：[https://ai.bearvision.cn/](https://ai.bearvision.cn/)。
 2. 在左上角，点击登录（也可以直接提问）。
 3. 弹出二维码后，使用微信扫码即可。
 

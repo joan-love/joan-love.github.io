@@ -37,14 +37,14 @@
 总结：如果您在国内想使用ChatGPT，推荐使用上面的 **ChatGPT 中文版镜像网站**。
 
 ## 国内自研大模型汇总
-[https://yiyan.baidu.com/] - 文心一言，由百度出品。
-[https://tongyi.aliyun.com/] - 通义千问，由阿里出品。
-[https://techday.sensetime.com/] - 商量，由商汤科技出品。
-[https://tiangong.kunlun.com/] - 天工 AI 助手，天工大模型。
-[https://xinghuo.xfyun.cn/] - 讯飞星火认知大模型。
-[https://moss.fastnlp.top/] - Moss，由复旦团队出品。
-[https://www.so.com/zt/invite.html] - 360 智脑，由360出品。
-[https://github.com/THUDM/ChatGLM-6B] - ChatGLM-6B，由清华大学唐杰团队开发。
+-[https://yiyan.baidu.com/] - 文心一言，由百度出品。
+-[https://tongyi.aliyun.com/] - 通义千问，由阿里出品。
+-[https://techday.sensetime.com/] - 商量，由商汤科技出品。
+-[https://tiangong.kunlun.com/] - 天工 AI 助手，天工大模型。
+-[https://xinghuo.xfyun.cn/] - 讯飞星火认知大模型。
+-[https://moss.fastnlp.top/] - Moss，由复旦团队出品。
+-[https://www.so.com/zt/invite.html] - 360 智脑，由360出品。
+-[https://github.com/THUDM/ChatGLM-6B] - ChatGLM-6B，由清华大学唐杰团队开发。
 ## 如何使用 ChatGPT 中文版？（详细教程）
 1. 选择上方的网址，如：[https://ai.bearvision.cn/](https://ai.bearvision.cn/)。
 2. 在左上角，点击登录（也可以直接提问）。
